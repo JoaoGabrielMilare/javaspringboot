@@ -27,4 +27,7 @@ public class AlunoServices {
         alunoRepository.deleteById(id);
     }
 
+    public List<AlunoModel> buscarTodosAlunos(){
+    }
+
 }
